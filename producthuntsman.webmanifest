@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "Product Huntsman|產品狩獵者",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/fox-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Product Huntsman|產品狩獵者",
+  "short_name": "Product Huntsman",
+  "start_url": "https://producthuntsman.blogspot.com/"
+}
