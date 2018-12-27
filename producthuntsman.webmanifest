@@ -1,5 +1,5 @@
 {
-  background-image: url("Backgorund.png");
+  "background-image": "url('Backgorund.png')";
   "description": "Product Huntsman|產品狩獵者",
   "display": "fullscreen",
   "icons": [
